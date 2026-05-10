@@ -1,18 +1,29 @@
 # City Explorer
 
 ## Description
-City Explorer is a PHP and MySQL based web application for listing city services and businesses.
+City Explorer is a PHP and MySQL based web application that helps users explore various city services and business listings in one platform.
+
+## Features
+- Category-wise service listing
+- Dynamic content using PHP
+- MySQL database integration
+- User-friendly interface
+- Separate admin and user modules
 
 ## Technologies Used
 - PHP
 - MySQL
 - HTML
 - CSS
+- JavaScript
 
-## Features
-- Category-wise business listing
-- Dynamic data display
-- User-friendly interface
+## Project Structure
+- admin/
+- user/
+- includes/
+- css/
+- js/
+- Database/
 
 ## Author
 Vaibhav Kapadiya
